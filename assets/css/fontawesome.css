@@ -2841,6 +2841,27 @@ readers do not read off random characters that represent icons */
 .fa-eye-slash:before {
     content: "\f070";
 }
+/* Instagram Icons */
+.fa-instagram:before {
+    content: "\f16d";
+}
+
+.fa-instagram-square:before {
+    content: "\f955";
+}
+
+/* LinkedIn Icons */
+.fa-linkedin:before {
+    content: "\f08c";
+}
+
+.fa-linkedin-in:before {
+    content: "\f0e1";
+}
+
+.fa-linkedin-square:before {
+    content: "\f30c";
+}
 
 .fa-facebook:before {
     content: "\f09a";
